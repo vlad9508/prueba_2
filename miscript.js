@@ -3,7 +3,7 @@ $(document).ready(function() {
     // getdeails será nuestra función para enviar la solicitud ajax    
     var getdetails = function(id) {
         
-        return $.getJSON("http:/192.168.0.18/prueba/personas.php", {
+        return $.getJSON("http://192.168.0.18/prueba/personas.php", {
             //192.168.0.18
             "id": id
             
