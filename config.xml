@@ -6,11 +6,11 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>PhoneGap Example</name>
+  <name>Prueba</name>
 
   <feature name="http://api.phonegap.com/1.0/network" />
 
-  <access origin="*" onlyInBrowser="true" />
+  <access origin="*" />
 
   <description>
       conexion a un servidor
